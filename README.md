@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 --->
 
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=EliasTheBigMasterofIssues)](https://github.com/ryo-ma/github-profile-trophy)
+[![EliasTheBigMasterofIssues](https://github-profile-trophy-kannan.vercel.app/?username=EliasTheBigMasterofIssues)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![EliasTheBigMasterofIssues](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
