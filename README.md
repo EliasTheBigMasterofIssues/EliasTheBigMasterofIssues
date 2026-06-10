@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on community projects
 
 
-[![EliasTheBigMasterofIssues](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![EliasTheBigMasterofIssues](https://streak-stats.demolab.com/?user=EliasTheBigMasterofIssues)](https://git.io/streak-stats)
