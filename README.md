@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 Dead Accounts
 ![EliasofWaffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasofwaffle)
-![EliasTheGrandMasterOfMistakes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasthgrandmasterofmistakes)
+![EliasTheGrandMasterOfMistakes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasthegrandmasterofmistakes)
