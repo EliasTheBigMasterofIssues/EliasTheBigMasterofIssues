@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 [![EliasTheBigMasterofIssues](https://streak-stats.demolab.com/?user=EliasTheBigMasterofIssues)](https://git.io/streak-stats)
 ![EliasTheBigMasterofIssues's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasthebigmasterofissues)
-
+</br>
 Dead Accounts
+</br>
 ![EliasofWaffle's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasofwaffle)
 ![EliasTheGrandMasterOfMistakes's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasthegrandmasterofmistakes)
