@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 ### Old accounts
 </br>
 ### EliasOfWaffle
-[![EliasofWaffle's GitHub stats](https://streak-stats.demolab.com/?user=eliasofwaffle)](https://git.io/streak-stats)
+</br>
+
+[![EliasofWaffle](https://streak-stats.demolab.com/?user=eliasofwaffle)](https://git.io/streak-stats)
 </br>
 ### EliasTheGrandMasterOfMistakes
-[![EliasTheGrandMasterOfMistakes's GitHub stats](https://streak-stats.demolab.com/?user=eliasthegrandmasterofmistakes)](https://git.io/streak-stats)
+</br>
+
+[![EliasTheGrandMasterOfMistakes](https://streak-stats.demolab.com/?user=eliasthegrandmasterofmistakes)](https://git.io/streak-stats)
