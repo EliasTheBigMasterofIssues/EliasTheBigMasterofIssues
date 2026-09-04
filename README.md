@@ -10,14 +10,20 @@ Here are some ideas to get you started:
 [![EliasTheBigMasterofIssues](https://streak-stats.demolab.com/?user=EliasTheBigMasterofIssues)](https://git.io/streak-stats)
 
 </br>
+
 ### Old accounts
+
 </br>
-### EliasOfWaffle
+
+###EliasOfWaffle
+
 </br>
 
 [![EliasofWaffle](https://streak-stats.demolab.com/?user=eliasofwaffle)](https://git.io/streak-stats)
 </br>
+
 ### EliasTheGrandMasterOfMistakes
+
 </br>
 
 [![EliasTheGrandMasterOfMistakes](https://streak-stats.demolab.com/?user=eliasthegrandmasterofmistakes)](https://git.io/streak-stats)
